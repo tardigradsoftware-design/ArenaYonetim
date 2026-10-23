@@ -42,3 +42,25 @@
 5. Loop kurgusu
 
 Son iki madde ilk üçü bozacaksa kullanılmaz.
+
+## 6. Dikkat çekicilik katmanı (izinli)
+
+Abartı ve reyting hileleri **çekicilik katmanında serbest**, iddia katmanında değil.
+İkisi ayrı tutulur:
+
+**Serbest (sunum/çekicilik):**
+- Güçlü, iddialı hook cümlesi; merak boşluğu; "kimse söylemiyor" tonu.
+- Dramatik kesme, gerilim, "bunu bilmeseydin" kurgusu.
+- Duygusal dil, şaşkınlık efekti, sayaç/vurgu, ses tonu.
+- Karşılaştırmalı anlatım ("çoğu kişi yanlış yapıyor") — doğruysa.
+- Tekrar izleme/loop kurgusu, kaydetme CTA'sı.
+
+**Yasak (iddia/doğruluk):**
+- Yapılmayanı yaptım deme, olmayan sonucu gösterme.
+- "Kesin çözer", "%100 yok eder", "bir daha asla" gibi mutlak vaat.
+- Süre/ölçü uydurma ("30 saniyede biter" ama bitmiyorsa).
+- Tehlikeli karışım, yüzeye zarar veren yöntem.
+- Görselde olmayan sonucu varmış gibi kurgulamak.
+
+**Kural:** Abartı **nasıl anlattığında**, yalan **ne anlattığında** olur.
+İzleyici videoyu denediğinde söylenen sonucu almalı; aldatılmış hissetmemeli.
